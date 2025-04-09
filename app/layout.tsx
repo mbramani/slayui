@@ -30,7 +30,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL("https://slayui.com"),
   title:
-    "Slay UI - Beautiful UI components built with Tailwind CSS and React",
+    "Slay UI - Beautiful & Accessible UI components built with Tailwind CSS and React Aria.",
   description:
     "An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.",
 }

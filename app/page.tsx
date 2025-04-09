@@ -3,14 +3,16 @@ import Link from "next/link"
 
 import { categories } from "@/config/components"
 import SearchButton from "@/components/search-button"
-import { SubscribeBottom } from "@/components/subscribe-form"
+
+// import { SubscribeBottom } from "@/components/subscribe-form"
 
 export default function Page() {
   return (
     <div data-home>
       <div className="max-w-3xl max-sm:text-center">
         <h1 className="font-heading text-foreground mb-4 text-4xl/[1.1] font-bold tracking-tight md:text-5xl/[1.1]">
-          Beautiful UI components built with Tailwind CSS and React.
+          Beautiful & Accessible UI components built with Tailwind CSS and React
+          Aria.
         </h1>
         <p className="text-muted-foreground mb-8 text-lg">
           An open-source collection of copy-and-paste components for quickly
@@ -39,7 +41,7 @@ export default function Page() {
         </div>
       </div>
 
-      <SubscribeBottom />
+      {/* <SubscribeBottom /> */}
     </div>
   )
 }

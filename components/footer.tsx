@@ -13,21 +13,12 @@ export default function Footer() {
           A project by{" "}
           <a
             className="text-foreground decoration-border font-medium underline underline-offset-4 hover:no-underline"
-            href="https://x.com/pacovitiello"
+            href="https://x.com/mb_ramani"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Pasquale
+            Mohit
           </a>{" "}
-          and{" "}
-          <a
-            className="text-foreground decoration-border font-medium underline underline-offset-4 hover:no-underline"
-            href="https://x.com/DavidePacilio"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Davide
-          </a>
           .
         </p>
       </div>

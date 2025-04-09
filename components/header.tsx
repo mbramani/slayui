@@ -1,10 +1,11 @@
 "use client"
 
-import Image from "next/image"
+// import Image from "next/image"
 import Link from "next/link"
-import LogoDark from "@/public/logo-dark.svg"
-import Logo from "@/public/logo.svg"
+// import LogoDark from "@/public/logo-dark.svg"
+// import Logo from "@/public/logo.svg"
 import { RiGithubFill, RiMenu2Line, RiTwitterXFill } from "@remixicon/react"
+import { SquareCheckIcon } from "lucide-react"
 
 import { useIsMobile } from "@/hooks/use-mobile"
 import HeaderLink from "@/components/header-link"
@@ -16,11 +17,7 @@ import {
   DropdownMenuTrigger,
 } from "@/registry/default/ui/dropdown-menu"
 
-const links = [
-  { text: "Layouts", href: "/layouts", isNew: true },
-  // { text: "Colors", href: "/colors" },
-  { text: "Easing Classes", href: "/easings" },
-]
+const links = [{ text: "Easing Classes", href: "/easings", isNew: false }]
 
 export default function Header() {
   const isMobile = useIsMobile()
@@ -32,24 +29,15 @@ export default function Header() {
         aria-hidden="true"
       ></div>
       <div className="mx-auto flex h-[72px] w-full max-w-6xl items-center justify-between gap-3">
-        <Link className="shrink-0" href="/" aria-label="Home">
-          <span className="sr-only">Slay UI</span>
-          <Image
-            src={Logo}
-            alt="Slay UI logo"
-            width={117}
-            height={24}
-            className="dark:hidden"
-            priority={true}
-          />
-          <Image
-            src={LogoDark}
-            alt="Slay UI logo"
-            width={117}
-            height={24}
-            className="hidden dark:block"
-            priority={true}
-          />
+        <Link
+          className="group flex shrink-0 items-center gap-1"
+          href="/"
+          aria-label="Home"
+        >
+          <SquareCheckIcon className="lucide lucide-check-square text-primary-foreground fill-primary group-hover:text-primary-foreground/80 group-hover:fill-primary/80 size-7 transition-colors duration-300" />
+          <span className="group-hover:text-primary/80 text-xl font-bold transition-colors duration-300">
+            Slay UI
+          </span>
         </Link>
         <div className="flex items-center">
           {!isMobile && (
@@ -73,7 +61,7 @@ export default function Header() {
           <div className="flex items-center gap-1">
             <a
               className="text-muted-foreground hover:text-foreground/80 focus-visible:border-ring focus-visible:ring-ring/50 inline-flex size-9 items-center justify-center rounded outline-none focus-visible:ring-[3px]"
-              href="https://x.com/origin_ui"
+              href="https://x.com/mb_ramani"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -82,7 +70,7 @@ export default function Header() {
             </a>
             <a
               className="text-muted-foreground hover:text-foreground/80 focus-visible:border-ring focus-visible:ring-ring/50 inline-flex size-9 items-center justify-center rounded outline-none focus-visible:ring-[3px]"
-              href="https://github.com/origin-space/slayui"
+              href="https://github.com/mbramani/slayui"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -1,6 +1,6 @@
 # Slay UI
 
-**Beautiful UI components built with Tailwind CSS and React.**
+**Beautiful & Accessible UI components built with Tailwind CSS and React Aria.**
 
 Slay UI is an extensive collection of copy-and-paste components for quickly building app UIs. It includes hundreds of components and is constantly updated with new designs.
 
