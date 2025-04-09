@@ -5,7 +5,7 @@ import PageHeader from "@/components/page-header"
 import Card from "./card"
 
 export const metadata: Metadata = {
-  title: "UI Layouts built with Tailwind CSS and React - Origin UI",
+  title: "UI Layouts built with Tailwind CSS and React - Slay UI",
   description:
     "Beautiful UI layouts built with Tailwind CSS and React to help you get started with your next project.",
 }
@@ -66,7 +66,7 @@ export default function Page() {
     <>
       <PageHeader title="Layouts &amp; Experiments">
         Beautifully designed open-source layouts and UI experiments built with
-        Origin UI and shadcn/ui.
+        Slay UI and shadcn/ui.
       </PageHeader>
 
       {/* Cards */}

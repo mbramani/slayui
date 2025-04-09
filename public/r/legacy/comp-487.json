@@ -6,7 +6,7 @@
     "react-aria-components"
   ],
   "registryDependencies": [
-    "https://originui.com/r/calendar-rac.json"
+    "https://slayui.com/r/calendar-rac.json"
   ],
   "files": [
     {

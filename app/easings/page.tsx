@@ -5,7 +5,7 @@ import PageHeader from "@/components/page-header"
 import Easings from "./easings"
 
 export const metadata: Metadata = {
-  title: "Tailwind CSS Easing Classes - Origin UI",
+  title: "Tailwind CSS Easing Classes - Slay UI",
   description:
     "A collection of easing utility classes to enhance your Tailwind CSS animations and transitions.",
 }

@@ -3,7 +3,7 @@
   "name": "comp-169",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/radio-group.json"
+    "https://slayui.com/r/radio-group.json"
   ],
   "files": [
     {

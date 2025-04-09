@@ -7,7 +7,7 @@ export default function Footer() {
       ></div>
       <div className="flex justify-between gap-2 max-sm:flex-col max-sm:text-center">
         <p className="text-muted-foreground text-sm">
-          &copy; {new Date().getFullYear()} Origin UI
+          &copy; {new Date().getFullYear()} Slay UI
         </p>
         <p className="text-muted-foreground text-sm">
           A project by{" "}

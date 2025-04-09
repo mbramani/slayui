@@ -2,104 +2,104 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://originui.com/:path*",
+      "destination": "https://slayui.com/:path*",
       "statusCode": 301,
       "has": [
         {
           "type": "host",
-          "value": "origin-ui-alpha.vercel.app"
+          "value": "slayui.vercel.app"
         }
       ]
     },
     {
       "source": "/",
-      "destination": "https://originui.com/input",
+      "destination": "https://slayui.com/input",
       "statusCode": 301,
       "has": [
         {
           "type": "host",
-          "value": "origin-ui-alpha.vercel.app"
+          "value": "slayui.vercel.app"
         }
       ]
     },
     {
       "source": "/accordions",
-      "destination": "https://originui.com/accordion",
+      "destination": "https://slayui.com/accordion",
       "statusCode": 301
     },
     {
       "source": "/alerts-notifications-banners",
-      "destination": "https://originui.com/alert",
+      "destination": "https://slayui.com/alert",
       "statusCode": 301
     },
     {
       "source": "/avatars-badges",
-      "destination": "https://originui.com/avatar",
+      "destination": "https://slayui.com/avatar",
       "statusCode": 301
     },
     {
       "source": "/badges",
-      "destination": "https://originui.com/badge",
+      "destination": "https://slayui.com/badge",
       "statusCode": 301
     },
     {
       "source": "/banners",
-      "destination": "https://originui.com/banner",
+      "destination": "https://slayui.com/banner",
       "statusCode": 301
     },
     {
       "source": "/breadcrumbs-paginations",
-      "destination": "https://originui.com/breadcrumb",
+      "destination": "https://slayui.com/breadcrumb",
       "statusCode": 301
     },
     {
       "source": "/buttons",
-      "destination": "https://originui.com/button",
+      "destination": "https://slayui.com/button",
       "statusCode": 301
     },
     {
       "source": "/calendars-date-pickers",
-      "destination": "https://originui.com/calendar-date-picker",
+      "destination": "https://slayui.com/calendar-date-picker",
       "statusCode": 301
     },
     {
       "source": "/checks-radios-switches",
-      "destination": "https://originui.com/checkbox",
+      "destination": "https://slayui.com/checkbox",
       "statusCode": 301
     },
     {
       "source": "/dialogs",
-      "destination": "https://originui.com/dialog",
+      "destination": "https://slayui.com/dialog",
       "statusCode": 301
     },
     {
       "source": "/dropdowns-popovers",
-      "destination": "https://originui.com/dropdown",
+      "destination": "https://slayui.com/dropdown",
       "statusCode": 301
     },
     {
       "source": "/inputs",
-      "destination": "https://originui.com/input",
+      "destination": "https://slayui.com/input",
       "statusCode": 301
     },
     {
       "source": "/selects",
-      "destination": "https://originui.com/select",
+      "destination": "https://slayui.com/select",
       "statusCode": 301
     },
     {
       "source": "/sliders",
-      "destination": "https://originui.com/slider",
+      "destination": "https://slayui.com/slider",
       "statusCode": 301
     },
     {
       "source": "/tables",
-      "destination": "https://originui.com/table",
+      "destination": "https://slayui.com/table",
       "statusCode": 301
     },
     {
       "source": "/tooltips",
-      "destination": "https://originui.com/tooltip",
+      "destination": "https://slayui.com/tooltip",
       "statusCode": 301
     }
   ]

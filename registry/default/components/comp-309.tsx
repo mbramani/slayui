@@ -23,7 +23,7 @@ export default function Component() {
           <div className="flex grow flex-col justify-between gap-3 md:flex-row md:items-center">
             <div className="space-y-0.5">
               <p className="text-sm font-medium">
-                Boost your experience with Origin UI
+                Boost your experience with Slay UI
               </p>
               <p className="text-muted-foreground text-sm">
                 The new feature is live! Try it out and let us know what you

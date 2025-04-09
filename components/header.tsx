@@ -33,10 +33,10 @@ export default function Header() {
       ></div>
       <div className="mx-auto flex h-[72px] w-full max-w-6xl items-center justify-between gap-3">
         <Link className="shrink-0" href="/" aria-label="Home">
-          <span className="sr-only">Origin UI</span>
+          <span className="sr-only">Slay UI</span>
           <Image
             src={Logo}
-            alt="Origin UI logo"
+            alt="Slay UI logo"
             width={117}
             height={24}
             className="dark:hidden"
@@ -44,7 +44,7 @@ export default function Header() {
           />
           <Image
             src={LogoDark}
-            alt="Origin UI logo"
+            alt="Slay UI logo"
             width={117}
             height={24}
             className="hidden dark:block"
@@ -82,7 +82,7 @@ export default function Header() {
             </a>
             <a
               className="text-muted-foreground hover:text-foreground/80 focus-visible:border-ring focus-visible:ring-ring/50 inline-flex size-9 items-center justify-center rounded outline-none focus-visible:ring-[3px]"
-              href="https://github.com/origin-space/originui"
+              href="https://github.com/origin-space/slayui"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -6,8 +6,8 @@
     "@remixicon/react"
   ],
   "registryDependencies": [
-    "https://originui.com/r/select.json",
-    "https://originui.com/r/label.json"
+    "https://slayui.com/r/select.json",
+    "https://slayui.com/r/label.json"
   ],
   "files": [
     {

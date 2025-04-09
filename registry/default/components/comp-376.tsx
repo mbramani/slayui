@@ -41,7 +41,7 @@ export default function Component() {
               Keith Kennedy
             </span>
             <span className="text-muted-foreground truncate text-xs font-normal">
-              k.kennedy@originui.com
+              k.kennedy@slayui.com
             </span>
           </div>
         </DropdownMenuLabel>

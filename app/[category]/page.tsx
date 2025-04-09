@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (category.slug === "event-calendar") {
     return {
       title:
-        "Event calendar component built with React and Tailwind CSS - Origin UI",
+        "Event calendar component built with React and Tailwind CSS - Slay UI",
       description:
         "An event calendar component built with React and Tailwind CSS. Originally built in v0 and currently in early alpha stage.",
     }
@@ -40,8 +40,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: isSingleComponent
-      ? `${category.name} component built with React and Tailwind CSS - Origin UI`
-      : `${category.name} components built with React and Tailwind CSS - Origin UI`,
+      ? `${category.name} component built with React and Tailwind CSS - Slay UI`
+      : `${category.name} components built with React and Tailwind CSS - Slay UI`,
     description: isSingleComponent
       ? `A beautiful and accessible ${category.name.toLowerCase()} component built with React and Tailwind CSS.`
       : `A collection of beautiful and accessible ${category.name.toLowerCase()} components built with React and Tailwind CSS.`,

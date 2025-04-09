@@ -15,7 +15,7 @@ import {
 const items = [
   {
     id: "1",
-    title: "What makes Origin UI different?",
+    title: "What makes Slay UI different?",
     collapsibles: [
       {
         title: "What about performance?",
@@ -47,7 +47,7 @@ const items = [
   },
   {
     id: "3",
-    title: "Is Origin UI optimized for performance?",
+    title: "Is Slay UI optimized for performance?",
     collapsibles: [
       {
         title: "What's the bundle size impact?",

@@ -38,7 +38,7 @@ export default function Component() {
           </div>
           <DialogHeader>
             <DialogTitle className="sm:text-center">
-              Sign up Origin UI
+              Sign up Slay UI
             </DialogTitle>
             <DialogDescription className="sm:text-center">
               We just need a few details to get you started.

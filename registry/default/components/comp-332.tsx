@@ -21,7 +21,7 @@ export default function Component() {
 
   const stepContent = [
     {
-      title: "Welcome to Origin UI",
+      title: "Welcome to Slay UI",
       description:
         "Discover a powerful collection of components designed to enhance your development workflow.",
     },
@@ -38,7 +38,7 @@ export default function Component() {
     {
       title: "Get Support",
       description:
-        "Access our extensive documentation and community resources to make the most of Origin UI.",
+        "Access our extensive documentation and community resources to make the most of Slay UI.",
     },
   ]
 

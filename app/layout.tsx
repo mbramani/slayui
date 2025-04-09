@@ -28,9 +28,9 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://originui.com"),
+  metadataBase: new URL("https://slayui.com"),
   title:
-    "Origin UI - Beautiful UI components built with Tailwind CSS and React",
+    "Slay UI - Beautiful UI components built with Tailwind CSS and React",
   description:
     "An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.",
 }
@@ -65,7 +65,7 @@ export default function RootLayout({
         </ThemeProvider>
         <Script
           src="https://plausible.cruip.com/js/script.js"
-          data-domain="originui.com"
+          data-domain="slayui.com"
           strategy="beforeInteractive"
           defer
         />

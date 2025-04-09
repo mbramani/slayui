@@ -118,7 +118,7 @@ export default function Component() {
               id={id}
               className="pe-9"
               type="text"
-              defaultValue="https://originui.com/refer/87689"
+              defaultValue="https://slayui.com/refer/87689"
               readOnly
             />
             <TooltipProvider delayDuration={0}>

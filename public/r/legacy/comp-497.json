@@ -3,8 +3,8 @@
   "name": "comp-497",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/calendar.json",
-    "https://originui.com/r/select.json"
+    "https://slayui.com/r/calendar.json",
+    "https://slayui.com/r/select.json"
   ],
   "files": [
     {

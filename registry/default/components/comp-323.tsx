@@ -56,7 +56,7 @@ export default function Component() {
                 <Label>Why did you give this rating?</Label>
                 <Textarea
                   id="feedback"
-                  placeholder="How can we improve Origin UI?"
+                  placeholder="How can we improve Slay UI?"
                   aria-label="Send feedback"
                 />
               </div>

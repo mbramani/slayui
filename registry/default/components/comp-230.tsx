@@ -23,8 +23,8 @@ import {
 
 const organizations = [
   {
-    value: "originui",
-    label: "Origin UI",
+    value: "slayui",
+    label: "Slay UI",
   },
   {
     value: "cruip",
@@ -35,7 +35,7 @@ const organizations = [
 export default function Component() {
   const id = useId()
   const [open, setOpen] = useState<boolean>(false)
-  const [value, setValue] = useState<string>("originui")
+  const [value, setValue] = useState<string>("slayui")
 
   return (
     <div className="*:not-first:mt-2">

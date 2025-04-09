@@ -3,11 +3,11 @@
   "name": "comp-254",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/button.json",
-    "https://originui.com/r/input.json",
-    "https://originui.com/r/label.json",
-    "https://originui.com/r/slider.json",
-    "https://originui.com/r/tooltip.json"
+    "https://slayui.com/r/button.json",
+    "https://slayui.com/r/input.json",
+    "https://slayui.com/r/label.json",
+    "https://slayui.com/r/slider.json",
+    "https://slayui.com/r/tooltip.json"
   ],
   "files": [
     {

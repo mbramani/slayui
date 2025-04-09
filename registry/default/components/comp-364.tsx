@@ -43,7 +43,7 @@ export default function HoverCardDemo() {
           </div>
           <p className="text-muted-foreground text-sm">
             Designer at{" "}
-            <strong className="text-foreground font-medium">@Origin UI</strong>.
+            <strong className="text-foreground font-medium">@Slay UI</strong>.
             Crafting web experiences with Tailwind CSS.
           </p>
           <div className="flex items-center gap-2">

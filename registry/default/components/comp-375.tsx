@@ -23,7 +23,7 @@ export default function Component() {
         <DropdownMenuLabel className="flex flex-col">
           <span>Signed in as</span>
           <span className="text-foreground text-xs font-normal">
-            k.kennedy@originui.com
+            k.kennedy@slayui.com
           </span>
         </DropdownMenuLabel>
         <DropdownMenuSeparator />

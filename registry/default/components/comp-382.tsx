@@ -56,7 +56,7 @@ const initialNotifications = [
     id: 6,
     user: "Miky Derya",
     action: "mentioned you in",
-    target: "Origin UI open graph image",
+    target: "Slay UI open graph image",
     timestamp: "2 weeks ago",
     unread: false,
   },

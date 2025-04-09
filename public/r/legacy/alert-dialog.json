@@ -6,7 +6,7 @@
     "@radix-ui/react-alert-dialog"
   ],
   "registryDependencies": [
-    "https://originui.com/r/button.json"
+    "https://slayui.com/r/button.json"
   ],
   "files": [
     {

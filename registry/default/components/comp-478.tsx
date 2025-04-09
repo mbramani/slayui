@@ -185,7 +185,7 @@ const items: Item[] = [
     volume: 2507,
     cpc: 2.5,
     traffic: 88,
-    link: "https://originui.com",
+    link: "https://slayui.com",
   },
   {
     id: "2",
@@ -194,7 +194,7 @@ const items: Item[] = [
     volume: 1850,
     cpc: 4.75,
     traffic: 65,
-    link: "https://originui.com/input",
+    link: "https://slayui.com/input",
   },
   {
     id: "3",
@@ -203,7 +203,7 @@ const items: Item[] = [
     volume: 3200,
     cpc: 3.25,
     traffic: 112,
-    link: "https://originui.com/badge",
+    link: "https://slayui.com/badge",
   },
   {
     id: "4",
@@ -212,7 +212,7 @@ const items: Item[] = [
     volume: 890,
     cpc: 1.95,
     traffic: 45,
-    link: "https://originui.com/alert",
+    link: "https://slayui.com/alert",
   },
   {
     id: "5",
@@ -221,7 +221,7 @@ const items: Item[] = [
     volume: 4100,
     cpc: 5.5,
     traffic: 156,
-    link: "https://originui.com/tabs",
+    link: "https://slayui.com/tabs",
   },
   {
     id: "6",
@@ -230,7 +230,7 @@ const items: Item[] = [
     volume: 1200,
     cpc: 1.25,
     traffic: 42,
-    link: "https://originui.com/table",
+    link: "https://slayui.com/table",
   },
   {
     id: "7",
@@ -239,7 +239,7 @@ const items: Item[] = [
     volume: 760,
     cpc: 6.8,
     traffic: 28,
-    link: "https://originui.com/avatar",
+    link: "https://slayui.com/avatar",
   },
   {
     id: "8",
@@ -248,7 +248,7 @@ const items: Item[] = [
     volume: 950,
     cpc: 1.8,
     traffic: 35,
-    link: "https://originui.com",
+    link: "https://slayui.com",
   },
 ]
 

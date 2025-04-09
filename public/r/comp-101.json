@@ -3,8 +3,8 @@
   "name": "comp-101",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/toggle.json",
-    "https://originui.com/r/tooltip.json"
+    "https://slayui.com/r/toggle.json",
+    "https://slayui.com/r/tooltip.json"
   ],
   "files": [
     {

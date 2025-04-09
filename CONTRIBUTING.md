@@ -7,13 +7,13 @@ We welcome contributions to our project! Please follow these steps to contribute
 2. Clone your forked repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/originui.git
+   git clone https://github.com/your-username/slayui.git
    ```
 
 3. Navigate to the project directory:
 
    ```
-   cd originui
+   cd slayui
    ```
 
 4. Create a new branch for your feature or bug fix:

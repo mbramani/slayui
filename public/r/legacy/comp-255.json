@@ -3,9 +3,9 @@
   "name": "comp-255",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/input.json",
-    "https://originui.com/r/label.json",
-    "https://originui.com/r/slider.json"
+    "https://slayui.com/r/input.json",
+    "https://slayui.com/r/label.json",
+    "https://slayui.com/r/slider.json"
   ],
   "files": [
     {

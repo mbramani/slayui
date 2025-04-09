@@ -6,7 +6,7 @@
     "react-aria-components"
   ],
   "registryDependencies": [
-    "https://originui.com/r/datefield-rac.json"
+    "https://slayui.com/r/datefield-rac.json"
   ],
   "files": [
     {

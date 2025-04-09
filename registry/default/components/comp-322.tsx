@@ -23,7 +23,7 @@ export default function Component() {
             <a className="text-foreground hover:underline" href="#">
               tutorials
             </a>
-            , read Origin UI&lsquo;s{" "}
+            , read Slay UI&lsquo;s{" "}
             <a className="text-foreground hover:underline" href="#">
               documentation
             </a>
@@ -37,7 +37,7 @@ export default function Component() {
         <form className="space-y-5">
           <Textarea
             id="feedback"
-            placeholder="How can we improve Origin UI?"
+            placeholder="How can we improve Slay UI?"
             aria-label="Send feedback"
           />
           <div className="flex flex-col sm:flex-row sm:justify-end">

@@ -3,7 +3,7 @@
   "name": "comp-201",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/select-native.json"
+    "https://slayui.com/r/select-native.json"
   ],
   "files": [
     {

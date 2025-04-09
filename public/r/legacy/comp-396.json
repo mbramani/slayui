@@ -3,7 +3,7 @@
   "name": "comp-396",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/avatar.json"
+    "https://slayui.com/r/avatar.json"
   ],
   "files": [
     {

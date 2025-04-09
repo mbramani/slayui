@@ -3,8 +3,8 @@
   "name": "comp-317",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/button.json",
-    "https://originui.com/r/dialog.json"
+    "https://slayui.com/r/button.json",
+    "https://slayui.com/r/dialog.json"
   ],
   "files": [
     {

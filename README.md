@@ -1,21 +1,21 @@
-# Origin UI
+# Slay UI
 
 **Beautiful UI components built with Tailwind CSS and React.**
 
-Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It includes hundreds of components and is constantly updated with new designs.
+Slay UI is an extensive collection of copy-and-paste components for quickly building app UIs. It includes hundreds of components and is constantly updated with new designs.
 
-**Demo** → [https://originui.com](https://originui.com)
+**Demo** → [https://slayui.com](https://slayui.com)
 
-![Origin UI](https://github.com/user-attachments/assets/a6428743-1628-4498-8b45-7000e30bdc24)
+![Slay UI](https://github.com/user-attachments/assets/a6428743-1628-4498-8b45-7000e30bdc24)
 
 ## Getting Started
 
-Origin UI is designed to integrate seamlessly with Next.js projects, but the components are also compatible with any React-based project. The components follow shadcn conventions, so they'll feel familiar to anyone who has used shadcn before.
+Slay UI is designed to integrate seamlessly with Next.js projects, but the components are also compatible with any React-based project. The components follow shadcn conventions, so they'll feel familiar to anyone who has used shadcn before.
 
 **1. Set up the required files:**
 
-- Copy all `.tsx` files from Origin UI's `registry/default/ui` folder to your project's `components/ui` folder.
-- Copy `utils.ts` from Origin UI's `registry/default/lib` folder to your project's `lib` folder.
+- Copy all `.tsx` files from Slay UI's `registry/default/ui` folder to your project's `components/ui` folder.
+- Copy `utils.ts` from Slay UI's `registry/default/lib` folder to your project's `lib` folder.
 
 Note: If you're using shadcn, you may likely already have these files - however, I would recommend using our components over shadcn's for a consistent styling experience.
 
@@ -102,17 +102,17 @@ Our UI library has been updated to Tailwind CSS v4 as of February 25, 2025. Lega
 
 ```bash
 # v3 legacy component
-pnpm dlx shadcn@latest add https://originui.com/r/legacy/comp-01.json
+pnpm dlx shadcn@latest add https://slayui.com/r/legacy/comp-01.json
 ```
 
 Note: New components will only be developed for Tailwind v4.
 
 ## Contributing
 
-We welcome contributions to Origin UI! Please read our [contributing guidelines](CONTRIBUTING.md) on how to submit improvements and new components.
+We welcome contributions to Slay UI! Please read our [contributing guidelines](CONTRIBUTING.md) on how to submit improvements and new components.
 
 ## License
 
-Licensed under the [MIT License](https://github.com/origin-space/originui/blob/main/LICENSE.md).
+Licensed under the [MIT License](https://github.com/origin-space/slayui/blob/main/LICENSE.md).
 
 If you have any questions or just want to say hi, feel free to reach out to us on X 👉 [@pacovitiello](https://x.com/pacovitiello) & [@DavidePacilio](https://x.com/DavidePacilio).

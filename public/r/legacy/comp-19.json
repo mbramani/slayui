@@ -3,8 +3,8 @@
   "name": "comp-19",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/input.json",
-    "https://originui.com/r/label.json"
+    "https://slayui.com/r/input.json",
+    "https://slayui.com/r/label.json"
   ],
   "files": [
     {

@@ -3,9 +3,9 @@
   "name": "comp-463",
   "type": "registry:component",
   "registryDependencies": [
-    "https://originui.com/r/label.json",
-    "https://originui.com/r/pagination.json",
-    "https://originui.com/r/select.json"
+    "https://slayui.com/r/label.json",
+    "https://slayui.com/r/pagination.json",
+    "https://slayui.com/r/select.json"
   ],
   "files": [
     {

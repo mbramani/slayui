@@ -24,7 +24,7 @@ import {
 const items = [
   {
     id: "1",
-    title: "What makes Origin UI different?",
+    title: "What makes Slay UI different?",
     icon: CommandIcon,
     collapsibles: [
       {
@@ -62,7 +62,7 @@ const items = [
   },
   {
     id: "3",
-    title: "Is Origin UI optimized for performance?",
+    title: "Is Slay UI optimized for performance?",
     icon: ZapIcon,
     collapsibles: [
       {

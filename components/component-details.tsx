@@ -74,7 +74,7 @@ export default function ComponentDetails({
   return (
     <div className="absolute top-2 right-2 flex gap-2 peer-data-comp-loading:hidden">
       <OpenInV0
-        componentSource={`https://originui.com/r/${component.name}.json`}
+        componentSource={`https://slayui.com/r/${component.name}.json`}
       />
       <Dialog>
         <TooltipProvider delayDuration={0}>
@@ -113,7 +113,7 @@ export default function ComponentDetails({
                   <p className="text-muted-foreground text-sm">
                     No code available. If you think this is an error, please{" "}
                     <a
-                      href="https://github.com/origin-space/originui/issues"
+                      href="https://github.com/origin-space/slayui/issues"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-foreground font-medium underline hover:no-underline"
